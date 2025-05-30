@@ -10,14 +10,12 @@
             </div>
             <div class="col-lg-3 col-md-6">
                 <h4 class="section-title ff-secondary text-start text-primary fw-normal mb-4">Contact</h4>
-                <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Jean-Paul 2, Lomé, TOGO</p>
-                <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+228 97 98 02 79</p>
+                <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>kara près de la pharmacie nouveau marché, TOGO</p>
+                <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+228 00 00 00 00</p>
                 <p class="mb-2"><i class="fa fa-envelope me-3"></i>email@gmail.com</p>
                 <div class="d-flex pt-2">
-                    <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-twitter"></i></a>
-                    <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-facebook-f"></i></a>
-                    <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-youtube"></i></a>
-                    <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-linkedin-in"></i></a>
+                    <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-instagram"></i></a>
+                    <a class="btn btn-outline-light btn-social" href="https://www.facebook.com/groups/1165926681080201"><i class="fab fa-facebook-f"></i></a>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
@@ -42,10 +40,10 @@
         <div class="copyright">
             <div class="row">
                 <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                    &copy; <a class="border-bottom" href="#">IVRIVRII Chicken</a>, Tous droits reservés.
+                    &copy; <a class="border-bottom" href="#">LUX LOUNGE</a>, Tous droits reservés.
 
                     <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
-                    Designed By <a class="border-bottom" href="#">IVRIVRII</a><br><br>
+                    Designed By <a class="border-bottom" href="#">techsolutionsfinder</a><br><br>
                 </div>
                 {{-- <div class="col-md-6 text-center text-md-end">
                     <div class="footer-menu">

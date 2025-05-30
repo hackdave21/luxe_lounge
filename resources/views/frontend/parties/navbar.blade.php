@@ -1,7 +1,7 @@
 <div class="container-xxl position-relative p-0">
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark px-4 px-lg-5 py-3 py-lg-0">
         <a href="" class="navbar-brand p-0">
-            <h1 class="text-primary m-0"><i class="fa fa-utensils me-3"></i>IVRIVRII Chicken</h1>
+            <h1 class="text-primary m-0"><i class="fa fa-utensils me-3"></i>LUX LOUNGE</h1>
             {{-- <img src="{{asset('galerie/logo.png')}}" alt="Logo" height="90px"> --}}
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -33,7 +33,7 @@
                 <div class="col-lg-6 text-center text-lg-start">
                     <h1 class="display-3 text-white animated slideInLeft">Savourez nos<br>Délicieux Plats</h1>
                 <p class="text-white animated slideInLeft mb-4 pb-2">
-                    Venez vivre une expérience culinaire inoubliable chez <strong>IVRIVRII Chicken</strong>, situé au cœur de <strong>Lomé</strong>.
+                    Venez vivre une expérience culinaire inoubliable chez <strong>LUX LOUNGE</strong>, situé au cœur de <strong>Kara</strong>.
                     Nos plats sont préparés avec passion, à base d’ingrédients frais et locaux. Que vous soyez amateur de poulet braisé, de grillades ou de saveurs africaines authentiques,
                     notre restaurant est l’endroit idéal pour satisfaire vos envies gourmandes. Rejoignez-nous et laissez-vous séduire par l’ambiance chaleureuse et conviviale de notre équipe.
                 </p>

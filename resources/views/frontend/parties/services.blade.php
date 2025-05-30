@@ -22,9 +22,9 @@
             <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
                 <div class="service-item rounded pt-3">
                     <div class="p-4">
-                        <i class="fa fa-3x fa-cart-plus text-primary mb-4"></i>
-                        <h5>Commande en Ligne</h5>
-                        <p>Commandez facilement vos plats préférés en ligne et faites-vous livrer à domicile ou au bureau.</p>
+                        <i class="fa fa-3x fa-table text-primary mb-4"></i>
+                        <h5>Réservation de table</h5>
+                        <p>Réservez facilement votre table en ligne pour profiter de nos délicieux plats dans notre restaurant. Choisissez votre créneau horaire et le nombre de convives en quelques clics.</p>
                     </div>
                 </div>
             </div>
