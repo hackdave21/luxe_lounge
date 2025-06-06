@@ -10,7 +10,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>IVRIVRII | Panel d'administration</title>
+    <title>LUX LOUNGE | Panel d'administration</title>
 
     <!-- Custom fonts for this template-->
     <link href="{{asset('admintemplate/vendor/fontawesome-free/css/all.min.css')}}" rel="stylesheet" type="text/css">

@@ -3,7 +3,7 @@
     <!-- Sidebar - Brand -->
     <a class="sidebar-brand d-flex align-items-center justify-content-center" href="{{ route('admin.dashboard') }}">
         <div class="sidebar-brand-icon">
-            <img src="{{ asset('galerie/logo.png') }}" alt="Logo IVRIVRII" class="logo" height="40px">
+          <h4 class="m-0 fs-5" style="color: #FEA116"><i class="fa fa-utensils me-2"></i><STRONg>LUX LOUNGE</STRONg></h4>
         </div>
     </a>
 
@@ -57,7 +57,7 @@
     </li>
 
     <!-- Menu du jour  -->
-    <li class="nav-item {{ request()->routeIs('menudujours.*') ? 'active' : '' }}">
+    {{-- <li class="nav-item {{ request()->routeIs('menudujours.*') ? 'active' : '' }}">
         <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseMenusDuJour"
            aria-expanded="true" aria-controls="collapseMenusDuJour">
             <i class="fas fa-concierge-bell"></i>
@@ -69,7 +69,7 @@
                 <a class="collapse-item" href="{{ route('menudujours.index') }}">Voir tout</a>
             </div>
         </div>
-    </li>
+    </li> --}}
 
     <!-- Gestion des Cuisiniers -->
     <li class="nav-item {{ request()->routeIs('cuisiniers.*') ? 'active' : '' }}">

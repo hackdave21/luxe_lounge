@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
-  <title>Connexion | IVRIVRII</title>
+  <title>Connexion | LUX LOUNGE</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <!-- Fonts -->
@@ -270,7 +270,7 @@
     <div class="signup">
       <h2 class="form-title" id="signup">
         <i class="fas fa-utensils" style="color:white; margin-bottom: 10px;"></i>
-        <div>IVRIVRII</div><br>
+        <div>LUX LOUNGE</div><br>
         <span>Panneau d'administration</span>
       </h2>
     </div>
